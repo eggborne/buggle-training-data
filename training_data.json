@@ -1,6 +1,496 @@
 [
   {
     "features": {
+      "consonantCount": 19,
+      "scrabbleScore": 54,
+      "uniqueLetterCount": 16,
+      "syllableScore": 32,
+      "vowelCount": 5,
+      "matrix": [
+        [
+          "r",
+          "l",
+          "d",
+          "o",
+          "i"
+        ],
+        [
+          "p",
+          "n",
+          "b",
+          "s",
+          "e"
+        ],
+        [
+          "n",
+          "p",
+          "d",
+          "k",
+          "g"
+        ],
+        [
+          "v",
+          "z",
+          "y",
+          "b",
+          "o"
+        ],
+        [
+          "t",
+          "t",
+          "q",
+          "t",
+          "o"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 53
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 13,
+      "scrabbleScore": 41,
+      "uniqueLetterCount": 13,
+      "syllableScore": 45,
+      "vowelCount": 12,
+      "matrix": [
+        [
+          "i",
+          "r",
+          "r",
+          "e",
+          "i"
+        ],
+        [
+          "e",
+          "m",
+          "d",
+          "i",
+          "e"
+        ],
+        [
+          "v",
+          "y",
+          "a",
+          "i",
+          "i"
+        ],
+        [
+          "h",
+          "n",
+          "r",
+          "e",
+          "v"
+        ],
+        [
+          "t",
+          "o",
+          "g",
+          "n",
+          "a"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 264
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 20,
+      "scrabbleScore": 57,
+      "uniqueLetterCount": 17,
+      "syllableScore": 32,
+      "vowelCount": 3,
+      "matrix": [
+        [
+          "q",
+          "n",
+          "k",
+          "h",
+          "l"
+        ],
+        [
+          "p",
+          "c",
+          "l",
+          "z",
+          "f"
+        ],
+        [
+          "s",
+          "e",
+          "c",
+          "a",
+          "s"
+        ],
+        [
+          "v",
+          "r",
+          "q",
+          "m",
+          "a"
+        ],
+        [
+          "w",
+          "t",
+          "n",
+          "d",
+          "s"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 110
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 15,
+      "scrabbleScore": 45,
+      "uniqueLetterCount": 16,
+      "syllableScore": 30,
+      "vowelCount": 10,
+      "matrix": [
+        [
+          "n",
+          "b",
+          "s",
+          "f",
+          "a"
+        ],
+        [
+          "u",
+          "l",
+          "v",
+          "d",
+          "g"
+        ],
+        [
+          "e",
+          "t",
+          "o",
+          "r",
+          "u"
+        ],
+        [
+          "n",
+          "a",
+          "j",
+          "s",
+          "f"
+        ],
+        [
+          "a",
+          "o",
+          "l",
+          "e",
+          "i"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 235
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 14,
+      "scrabbleScore": 52,
+      "uniqueLetterCount": 15,
+      "syllableScore": 48,
+      "vowelCount": 11,
+      "matrix": [
+        [
+          "a",
+          "o",
+          "c",
+          "s",
+          "a"
+        ],
+        [
+          "c",
+          "l",
+          "y",
+          "i",
+          "e"
+        ],
+        [
+          "u",
+          "e",
+          "e",
+          "t",
+          "u"
+        ],
+        [
+          "z",
+          "a",
+          "o",
+          "p",
+          "k"
+        ],
+        [
+          "w",
+          "c",
+          "l",
+          "r",
+          "t"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 215
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 17,
+      "scrabbleScore": 45,
+      "uniqueLetterCount": 14,
+      "syllableScore": 42,
+      "vowelCount": 8,
+      "matrix": [
+        [
+          "n",
+          "p",
+          "e",
+          "a",
+          "s"
+        ],
+        [
+          "e",
+          "k",
+          "a",
+          "n",
+          "n"
+        ],
+        [
+          "i",
+          "r",
+          "e",
+          "h",
+          "n"
+        ],
+        [
+          "a",
+          "r",
+          "h",
+          "t",
+          "r"
+        ],
+        [
+          "n",
+          "v",
+          "y",
+          "c",
+          "o"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 261
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 15,
+      "scrabbleScore": 34,
+      "uniqueLetterCount": 13,
+      "syllableScore": 39,
+      "vowelCount": 10,
+      "matrix": [
+        [
+          "o",
+          "a",
+          "e",
+          "p",
+          "t"
+        ],
+        [
+          "s",
+          "t",
+          "t",
+          "b",
+          "o"
+        ],
+        [
+          "a",
+          "f",
+          "n",
+          "a",
+          "r"
+        ],
+        [
+          "m",
+          "s",
+          "s",
+          "o",
+          "l"
+        ],
+        [
+          "s",
+          "u",
+          "e",
+          "r",
+          "o"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 355
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 19,
+      "scrabbleScore": 55,
+      "uniqueLetterCount": 19,
+      "syllableScore": 25,
+      "vowelCount": 6,
+      "matrix": [
+        [
+          "g",
+          "a",
+          "o",
+          "p",
+          "t"
+        ],
+        [
+          "c",
+          "d",
+          "v",
+          "y",
+          "h"
+        ],
+        [
+          "e",
+          "h",
+          "i",
+          "l",
+          "h"
+        ],
+        [
+          "l",
+          "n",
+          "b",
+          "s",
+          "s"
+        ],
+        [
+          "o",
+          "u",
+          "x",
+          "r",
+          "s"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 140
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 14,
+      "scrabbleScore": 34,
+      "uniqueLetterCount": 12,
+      "syllableScore": 51,
+      "vowelCount": 11,
+      "matrix": [
+        [
+          "s",
+          "l",
+          "a",
+          "e",
+          "e"
+        ],
+        [
+          "n",
+          "l",
+          "o",
+          "e",
+          "s"
+        ],
+        [
+          "t",
+          "e",
+          "r",
+          "h",
+          "o"
+        ],
+        [
+          "u",
+          "e",
+          "e",
+          "t",
+          "b"
+        ],
+        [
+          "s",
+          "d",
+          "h",
+          "u",
+          "t"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 322
+    }
+  },
+  {
+    "features": {
+      "consonantCount": 17,
+      "scrabbleScore": 100,
+      "uniqueLetterCount": 13,
+      "syllableScore": 8,
+      "vowelCount": 6,
+      "matrix": [
+        [
+          "v",
+          "i",
+          "y",
+          "j",
+          "p"
+        ],
+        [
+          "j",
+          "i",
+          "z",
+          "o",
+          "y"
+        ],
+        [
+          "d",
+          "z",
+          "j",
+          "w",
+          "l"
+        ],
+        [
+          "q",
+          "u",
+          "x",
+          "q",
+          "o"
+        ],
+        [
+          "z",
+          "k",
+          "l",
+          "u",
+          "v"
+        ]
+      ]
+    },
+    "outcomes": {
+      "totalWords": 23
+    }
+  },
+  {
+    "features": {
       "consonantCount": 12,
       "scrabbleScore": 47,
       "uniqueLetterCount": 12,
