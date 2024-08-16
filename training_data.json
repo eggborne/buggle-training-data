@@ -4,75 +4,75 @@
       "consonantCount": 20,
       "letterFrequencies": {
         "a": 0,
-        "b": 0,
-        "c": 0,
+        "b": 1,
+        "c": 1,
         "d": 1,
         "e": 1,
-        "f": 2,
-        "g": 2,
-        "h": 1,
-        "i": 0,
-        "j": 2,
+        "f": 1,
+        "g": 0,
+        "h": 3,
+        "i": 1,
+        "j": 0,
         "k": 0,
-        "l": 2,
-        "m": 1,
-        "n": 0,
+        "l": 0,
+        "m": 0,
+        "n": 2,
         "o": 1,
-        "p": 2,
+        "p": 0,
         "qu": 0,
         "r": 1,
-        "s": 0,
-        "t": 1,
-        "u": 1,
+        "s": 3,
+        "t": 2,
+        "u": 2,
         "v": 1,
         "w": 1,
-        "x": 1,
-        "y": 0,
-        "z": 2
+        "x": 0,
+        "y": 3,
+        "z": 0
       },
-      "scrabbleScore": 86,
-      "uniqueLetterCount": 17,
-      "vowelCount": 3,
+      "scrabbleScore": 57,
+      "uniqueLetterCount": 16,
+      "vowelCount": 5,
       "matrix": [
         [
+          "o",
+          "u",
+          "n",
+          "n",
+          "s"
+        ],
+        [
+          "h",
           "f",
-          "g",
-          "l",
-          "t",
-          "v"
+          "y",
+          "r",
+          "e"
         ],
         [
           "w",
-          "e",
-          "j",
+          "y",
           "u",
-          "r"
+          "c",
+          "t"
         ],
         [
-          "f",
-          "m",
-          "z",
+          "v",
+          "s",
           "h",
-          "q"
+          "b",
+          "h"
         ],
         [
-          "l",
-          "g",
-          "q",
-          "j",
-          "o"
-        ],
-        [
-          "p",
-          "z",
-          "p",
+          "y",
+          "t",
           "d",
-          "x"
+          "i",
+          "s"
         ]
       ]
     },
     "outcomes": {
-      "totalWords": 26
+      "totalWords": 140
     }
   }
 ]
