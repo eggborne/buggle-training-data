@@ -2,341 +2,35 @@
   {
     "features": {
       "letterList": [
-        "s",
         "e",
-        "t",
-        "n",
         "a",
-        "l",
-        "e",
-        "n",
-        "e",
-        "f",
-        "s",
-        "n",
-        "i",
-        "a",
-        "i",
-        "u",
-        "g",
-        "t",
-        "u",
-        "u",
-        "t",
         "p",
-        "e",
-        "t",
-        "o"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 286
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "e",
-        "i",
-        "e",
-        "i",
-        "w",
-        "e",
-        "o",
-        "h",
-        "r",
-        "a",
-        "k",
         "f",
-        "a",
-        "r",
-        "e",
-        "n",
         "t",
-        "m",
-        "n",
-        "e",
-        "o",
-        "s",
-        "w",
-        "o",
-        "i"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 199
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "s",
-        "a",
-        "l",
-        "n",
-        "c",
-        "r",
-        "e",
-        "e",
-        "r",
-        "o",
-        "c",
-        "h",
-        "u",
-        "s",
-        "p",
-        "s",
-        "r",
-        "o",
-        "a",
-        "e",
-        "p",
-        "h",
-        "e",
-        "b",
-        "r"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 519
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "g",
-        "b",
-        "s",
-        "a",
-        "w",
-        "m",
-        "x",
-        "l",
         "i",
-        "e",
-        "s",
-        "v",
-        "s",
         "r",
-        "n",
-        "r",
-        "n",
-        "a",
-        "h",
-        "f",
-        "o",
-        "c",
-        "r",
-        "v",
-        "t"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 228
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "n",
-        "c",
-        "r",
-        "s",
-        "i",
-        "s",
-        "o",
-        "e",
-        "u",
-        "s",
-        "n",
-        "f",
-        "r",
-        "t",
-        "t",
-        "m",
-        "h",
-        "i",
-        "u",
-        "t",
-        "a",
-        "i",
-        "t",
-        "e",
-        "u"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 304
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "e",
-        "z",
-        "w",
-        "i",
-        "p",
-        "m",
-        "s",
-        "b",
-        "s",
-        "g",
-        "a",
-        "e",
-        "m",
-        "q",
-        "f",
-        "k",
-        "n",
-        "k",
-        "m",
-        "o",
-        "s",
-        "h",
-        "j",
-        "g",
-        "u"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 122
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "a",
-        "f",
-        "e",
-        "a",
-        "c",
-        "s",
-        "r",
-        "e",
-        "k",
-        "a",
-        "k",
-        "h",
-        "y",
-        "e",
-        "u",
-        "e",
-        "e",
-        "n",
-        "o",
-        "t",
-        "f",
-        "d",
-        "n",
-        "k",
-        "b"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 222
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "g",
-        "o",
-        "h",
-        "p",
-        "o",
-        "m",
-        "i",
-        "l",
-        "s",
-        "w",
-        "n",
-        "t",
-        "t",
-        "t",
-        "m",
-        "h",
-        "g",
-        "b",
-        "o",
-        "f",
-        "a",
-        "u",
         "r",
         "d",
-        "s"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 220
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "e",
-        "b",
-        "s",
-        "s",
-        "t",
-        "u",
-        "e",
-        "l",
-        "y",
-        "e",
-        "u",
-        "t",
-        "s",
-        "t",
-        "i",
+        "g",
         "n",
-        "a",
+        "r",
+        "e",
+        "y",
+        "n",
+        "n",
+        "n",
         "b",
         "h",
-        "a",
-        "a",
-        "o",
-        "l",
-        "e",
-        "s"
+        "p",
+        "w",
+        "c",
+        "r",
+        "d",
+        "d"
       ]
     },
     "outcomes": {
-      "totalWords": 366
-    }
-  },
-  {
-    "features": {
-      "letterList": [
-        "a",
-        "j",
-        "h",
-        "k",
-        "t",
-        "u",
-        "i",
-        "y",
-        "t",
-        "e",
-        "s",
-        "t",
-        "s",
-        "r",
-        "n",
-        "z",
-        "a",
-        "o",
-        "h",
-        "f",
-        "o",
-        "t",
-        "r",
-        "l",
-        "i"
-      ]
-    },
-    "outcomes": {
-      "totalWords": 284
+      "totalWords": 124
     }
   }
 ]
