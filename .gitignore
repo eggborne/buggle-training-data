@@ -1,4 +1,5 @@
 .htaccess
-research/averageWordLength/*
-research/percentCommon/*
-research/totalWords/*
+research/averageWordLength
+# research/averageWordLength/*
+research/percentCommon
+research/totalWords
