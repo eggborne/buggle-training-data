@@ -1,2 +1,4 @@
-training*
 .htaccess
+research/averageWordLength/*
+research/percentCommon/*
+research/totalWords/*
